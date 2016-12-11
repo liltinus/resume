@@ -1,0 +1,101 @@
+* {
+  font-size: 11px;
+  box-sizing: border-box;
+}
+body {
+  font-family: Calibri, "Trebuchet MS", Verdana, Helvetica;
+}
+hr {
+
+}
+h1 {
+  font-size: 1.5em;
+  text-align: center;
+}
+li {
+  padding: 0px 0px 5px;
+}
+.container {
+  border: 1px solid white;
+  width: 647px;
+  margin: 20px;
+}
+section#overview h2 {
+  text-align: center;
+}
+section#overview p {
+  text-align: justify;
+}
+section#AOE li {
+  text-align: left;/* for Security & Risk li */
+}
+section#TP {
+
+}
+.subheadings {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#CP p, li {
+  text-align: justify;
+}
+header p {
+  text-align: center;
+}
+.filler {
+  border: 1px solid #fff;
+}
+.title  {
+  font-style: italic;
+}
+.timeframe {
+  font-weight: bold;
+}
+.company {
+  font-weight: bold;
+}
+.location {
+  text-align: right;
+  font-weight: bold;
+}
+/* BOOTSTRAP BASICS */
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+  float: left;
+  /*border: 1px solid gray;*/
+}
+.col-lg-12 {
+  width: 100%;
+}
+.col-lg-11 {
+  width: 91.66666667%;
+}
+.col-lg-10 {
+  width: 83.33333333%;
+}
+.col-lg-9 {
+  width: 75%;
+}
+.col-lg-8 {
+  width: 66.66666667%;
+}
+.col-lg-7 {
+  width: 58.33333333%;
+}
+.col-lg-6 {
+  width: 50%;
+}
+.col-lg-5 {
+  width: 41.66666667%;
+}
+.col-lg-4 {
+  width: 33.33333333%;
+}
+.col-lg-3 {
+  width: 25%;
+}
+.col-lg-2 {
+  width: 16.66666667%;
+}
+.col-lg-1 {
+  width: 8.33333333%;
+}
